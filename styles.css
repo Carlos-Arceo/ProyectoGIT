@@ -1,0 +1,26 @@
+/*Estilo del encabezado*/
+header {
+  background-color: #000033;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+    height: 100px;
+}
+
+/*Para las imagenes*/
+
+.responsive {
+  float: left;
+  width: 15%;
+    background: #052346;
+}
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+div.desc {
+  padding: 15px;
+  text-align: center;
+    color: white;
+}
